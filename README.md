@@ -1,3 +1,29 @@
+# sentrysearch
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 Gemini Embedding 2 或 Qwen3-VL 对视频做语义搜索。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # SentrySearch
 
 Semantic search over video footage. Type what you're looking for, get a trimmed clip back.
